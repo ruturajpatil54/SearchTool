@@ -9,3 +9,6 @@ SearchTool
   a system call and they're reflected in the mysql database.
   
   User queries are processed through this database.
+
+
+  ![ScreenShot](https://raw.github.com/ruturajpatil54/SearchTool/master/snapshot.png)
