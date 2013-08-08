@@ -6,9 +6,9 @@ SearchTool
   specified folders quickly with the help of mysql.
   
   All files are listed and indexed in a mysql database. Any changes to files in indexed locations are identified using
-  a system call and they're reflected in the mysql database.
+  a system call and they're reflected in the mysql database. User queries are processed through this database.
   
-  User queries are processed through this database.
-
+  
+  A snapshot of the tool:
 
   ![ScreenShot](https://raw.github.com/ruturajpatil54/SearchTool/master/snapshot.png)
