@@ -114,7 +114,7 @@ public class UI implements ActionListener,CaretListener
 			public void keyTyped(KeyEvent e) {
 				if(e.getExtendedKeyCode()==KeyEvent.VK_ENTER)
 				{
-					System.out.println("Search u idiot!");
+					System.out.println("Search");
 					actionPerformed(new ActionEvent(e.getSource(), e.getID(), "Search"));
 				}
 			}
